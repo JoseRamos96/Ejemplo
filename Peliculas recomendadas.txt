@@ -1,5 +1,7 @@
-<<<<<<< HEAD
 El señor de los anillos
-=======
-El Señor de los Anillos
->>>>>>> a0d99006aec8f0f36867c52d21ea4ff91d20839b
+Harry Potter
+Harry Potter2
+Mi villano favorito
+Rio 2
+Cars
+Moana
